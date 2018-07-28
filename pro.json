@@ -1,0 +1,45 @@
+{
+  "dets":{
+   "image":"photo.jpg",
+   "name":"pavankalyan",
+   "phno":"+9198121324",
+   "mail":"pk@gmail.com",
+   "Address":"vijayawada"
+ },
+  "Career":{
+    "text":"to get pg seat in iit through gate"
+  },
+  "Education":[
+  {
+    "qualification":"B.Tech",
+    "institute":"Mic College",
+    "year":"2016-2020",
+    "percentage":"79%"
+    },
+    {
+      "qualification":"Intermediate",
+      "institute":"sri chaitanya Junior College",
+      "year":"2016",
+      "percentage":"96.6%"
+      },
+      {
+        "qualification":"SSC",
+        "institute":"s.p.s.m.c.high school",
+        "year":"2014",
+        "percentage":"95%"
+    }
+  ],
+  "skills":[{
+    "title":"Programming Langs",
+    "info":["C,C++,touch with python and java"]
+  },
+  {
+    "title":"Data-Bases",
+    "info":["SQL,MySQL"]
+  },
+  {
+    "title":"Operating-Systems",
+    "info":["Windows,ubantu"]
+    }
+  ]
+}

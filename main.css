@@ -1,0 +1,31 @@
+.Eesalacup{
+  border:2px solid blue;
+  display:flex;
+  flex-direction: row;
+  background-image: url(4.jpg);
+}
+.Namde1{
+  border:2px solid blue;
+  margin:2%;
+  padding:2%;
+  text-align: center;
+  width:30%;
+}
+.Namde2{
+  border:2px solid navy;
+  margin:2%;
+  padding:2%;
+  width:70%;
+}
+a{
+  word-wrap: break-word;
+}
+.Namde1 img{
+  width:60%;
+border: 1px solid grey;
+border-radius: 50%;
+display: block;
+margin-left: auto;
+margin-right: auto;
+box-shadow: 5px 8px 9px red;
+}
